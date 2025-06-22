@@ -63,10 +63,10 @@ defaults:
 
 # Site owner
 author:
-  name: "Michael<br>Hassid"
+  name: "Michael Hassid"
   avatar: "/assets/images/bio-photo.jpg"              
   bio: 
-  "PhD candidate at HUJI; \n Research Assistant at FAIR (Meta)"
+  "PhD candidate at HUJI;<br> Research Assistant at FAIR (Meta)"
   links:
         - label: ""
           icon: "far fa-paper-plane"
