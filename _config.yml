@@ -65,8 +65,7 @@ defaults:
 author:
   name: "Michael Hassid"
   avatar: "/assets/images/bio-photo.jpg"              
-  bio: 
-  "PhD candidate at HUJI;<br> Research Assistant at FAIR (Meta)"
+  bio: "PhD candidate at HUJI;<br> Research Assistant at FAIR (Meta)"
   links:
         - label: ""
           icon: "far fa-paper-plane"
