@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 title: 
 header:
-  image: /assets/images/pano_crop_2.png
+  image: /assets/images/panorama.jpg
 ---
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
