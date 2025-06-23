@@ -29,7 +29,7 @@ github_username:  hassidm
 
 # Build settings
 #theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: mmistakes/minimal-mistakes@4.27.0
 plugins:
   - jekyll-feed
   - jekyll-include-cache
@@ -68,16 +68,16 @@ author:
   bio: "PhD candidate at HUJI;<br> Research Assistant at FAIR (Meta)"
   links:
         - label: ""
-          icon: "far fa-paper-plane"
+          icon: "fa-solid fa-envelope"
           url: "mailto:michael.hassid@mail.huji.ac.il"
         - label: ""
-          icon: "fab fa-twitter"
+          icon: "fa-brands fa-x-twitter"
           url: "https://x.com/MichaelHassid"
         # - label: ""
         #   icon: "fab fa-fw fa-github"
         #   url: "https://github.com/gabrielStanovsky"
         - label: ""
-          icon: "fas fa-university"
+          icon: fa-brands fa-google-scholar
           url: "https://scholar.google.com/citations?hl=en&user=5d93np0AAAAJ"
         - label: ""
           icon: "fab fa-fw fa-linkedin-in"
