@@ -43,4 +43,4 @@ My primary focus is on Large Language Models (LLMs), where I'm particularly inte
 
 Before this, I spent almost four years at Google (<a href="https://search.google.com/search-console/about" target="_blank">Search Console</a> and <a href="https://research.google/" target="_blank">Google research</a>) as a software engineer and researcher (across part-time and full-time internships). My academic background includes both a B.Sc. (<b>summa cum laude</b>, "Amirim" excellence program) and an M.Sc. (<b>magna cum laude</b>, excellence program) in Computer Science from HUJI.
 
-Other than that, I consider my marriage to Miri Varshavsky (now also) Hassid to be my greatest personal achievement. I also occasionally participating in spoken word performances.
+Other than that, I consider my marriage to <a href="https://scholar.google.com/citations?user=6apvstwAAAAJ&hl=en" target="_blank">Miri Varshavsky (now also) Hassid</a>  to be my greatest personal achievement. I also occasionally participating in spoken word performances.
