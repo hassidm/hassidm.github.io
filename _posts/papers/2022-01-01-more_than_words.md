@@ -13,6 +13,7 @@ code: NONE
 layout: post
 poster: NONE
 page: https://google-research.github.io/lingvo-lab/vdtts/
+arxiv: https://arxiv.org/abs/2111.10139
 slides: NONE
-date: 01-01-2022
+date: 19-11-2021
 ---

@@ -35,22 +35,12 @@ header:
 
 
 
-Add here my text more
+Hi there, I'm Michael.
 
-I develop natural language processing models which deal with real-world texts and
-help answer multi-disciplinary research questions, e.g., in archaeology, law, medicine, and more.
-See my [group](group), [publications](publications), and [teaching](teaching) pages for more details.
+I am a (fourth-year) computer sceince PhD candidate at the Hebrew University of Jerusalem (<a href="https://www.cs.huji.ac.il" target="_blank">HUJI</a>), and a reserach assistant at FAIR (<a href="https://ai.meta.com/research/" target="_blank">Meta AI</a>). Both are part of an excellence joint program between HUJI and Meta AI, under the guidance of <a href="https://schwartz-lab-huji.github.io/" target="_blank">Prof. Roy Schwartz</a> and  <a href="https://www.cs.huji.ac.il/~adiyoss/" target="_blank">Dr. Yossi Adi</a>.
 
-I did my postdoc with <a href="https://www.cs.washington.edu/people/faculty/lsz" target="_blank">Prof. Luke Zettlemoyer</a> at the University of Washington and with <a href="https://homes.cs.washington.edu/~nasmith/" target="_blank">Prof. Noah Smith</a> at the
-                                  <a href="http://allenai.org" target="_blank">Allen Institute for Artificial Intelligence</a> (AI2),
-                                  my PhD at Bar-Ilan University's <a href="http://u.cs.biu.ac.il/~nlp/" target="_blank">NLP lab</a>, with <a href="http://u.cs.biu.ac.il/~dagan/" target="_blank">Prof. Ido Dagan</a>, and my MSc thesis with <a href = "http://www.cs.bgu.ac.il/~elhadad" target="_blank">Prof. Michael Elhadad</a>, at the Ben Gurion University.
-Find my complete CV [here](assets/docs/cv.pdf){:target="_blank"}.
+My primary focus is on Large Language Models (LLMs), where I'm particularly interested in making them more efficient and accessible. A significant part of my research involves investigating neural mechanisms for LLMs. I also enjoy exploring LLMs for reasoning, code generation, and mathematics, and I'm quite interested in speech language models (SLMs) and working with multimodal data.
 
-I'm also a wannabe <a href="https://letterboxd.com/gabistanovsky/films/diary/" target="_blank">movie buff</a>, <a href="http://www.setlist.fm/concerts/Gabis" target="_blank">concert goer</a>, <a href="https://www.goodreads.com/user/show/24306303-gabriel-stanovsky" target="_blank">book lover</a>, 
-						and <a href="https://tunein.com/user/gabrielsatanovsky/" target="_blank">radio</a> <a href="https://www.mixcloud.com/gabriel-satanovsky/" target="_blank">enthusiast</a>.
+Before this, I spent almost four years at Google (<a href="https://search.google.com/search-console/about" target="_blank">Search Console</a> and <a href="https://research.google/" target="_blank">Google research</a>) as a software engineer and researcher (across part-time and full-time internships). My academic background includes both a B.Sc. (<b>summa cum laude</b>, "Amirim" excellence program) and an M.Sc. (<b>magna cum laude</b>, excellence program) in Computer Science from HUJI.
 
-Want to talk with me? You can schedule a time <a href="https://calendly.com/gabi-stanovsky/office-hours" target="_blank">here</a>.
-
-
-
-				
+Other than that, I consider my marriage to Miri Varshavsky (now also) Hassid to be my greatest personal achievement. I also occasionally participating in spoken word performances.

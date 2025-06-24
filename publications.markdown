@@ -3,7 +3,7 @@ layout: single
 title: Publications
 permalink: /publications/
 header:
-  image: /assets/images/panorama-crop.jpg
+  image: /assets/images/panorama.jpg
 ---
 
 <head>
@@ -99,6 +99,10 @@ header:
 
       {% unless post.page == 'NONE' %}
       <a href="{{ post.page }}" target="_blank"><span class="label label-info">Project Page</span></a>
+      {% endunless %}
+
+      {% unless post.arxiv == 'NONE' %}
+      <a href="{{ post.arxiv }}" target="_blank"><span class="label label-default">Arxiv</span></a>
       {% endunless %}
 
       {% unless post.bib == 'NONE' %}
