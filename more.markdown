@@ -1,5 +1,6 @@
 ---
 title: 
+author_profile: true
 layout: single
 permalink: /more
 header:
@@ -45,6 +46,7 @@ header:
 **<a href="https://www.cs.huji.ac.il/~adiyoss/ispeech-2023/" target="_blank">iSpeech-2023</a>**, Textualy pretrained speech LMs <i><font style="color:DimGray;font-size:15px">June 2023</font></i> <br>
 **<a href="https://www.gm.com/research" target="_blank">General Motors</a>**, More than words: In-the-wild visually-driven prosody for text-to-speech <i><font style="color:DimGray;font-size:15px">August 2022</font></i> <br>
 
+<br>
 <h2 id="teaching-section">Teaching</h2>
 
 **Lecturer**, Advanced Natural Language Processing (ANLP) <i><font style="color:DimGray;font-size:15px">HUJI; 2023-2024</font></i>
@@ -58,9 +60,9 @@ header:
 **Teacher Assistant**, Intoduction to CS <i><font style="color:DimGray;font-size:15px">HUJI; 2018-2019</font></i> <br>
 **Teacher Assistant**, Intoduction to CS <i><font style="color:DimGray;font-size:15px">HUJI; 2017-2018</font></i> <br>
 
-
+<br>
 <h2 id="spoken-section">Spoken Word</h2>
-Here are some videos from when I was a bit more poetic. 
+Here are some videos from times I was a bit more poetic. 
 
 <div style="margin-bottom: 20px;">
   <iframe width="280" height="158" src="https://www.youtube.com/embed/_z0Vix1FG5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

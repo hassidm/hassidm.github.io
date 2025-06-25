@@ -1,5 +1,5 @@
 ---
-title: "More than words: In-the-wild visually-driven prosody for text-to-speech"
+title: "More than Words: In-the-Wild Visually-Driven Prosody for Text-to-Speech"
 authors: <b>Michael Hassid</b>, Michelle Tadmor Ramanovich, Brendan Shillingford, Miaosen Wang, Ye Jia, Tal Remez
 venue: CVPR 2022
 base: eco-sem
