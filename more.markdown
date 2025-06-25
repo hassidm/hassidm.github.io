@@ -40,11 +40,11 @@ header:
 
 
 **<a href="https://www.nvidia.com/en-us/research/" target="_blank">NVIDIA Research</a>**, Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning <i><font style="color:DimGray;font-size:15px">July 2025</font></i> <br>
-**<a href="https://www.cs.huji.ac.il/" target="_blank">HUJI ANLP course</a>**, Deep Dive into Transformers *(see lecture under <a href="#teaching-section">Teaching</a>)* <i><font style="color:DimGray;font-size:15px">November 2024</font></i> <br>
+**<a href="https://www.cs.huji.ac.il/" target="_blank">HUJI ANLP course</a>**, Deep Dive into Transformers *(see lecture under <a href="#teaching-section">Teaching</a>)* <i><font style="color:DimGray;font-size:15px">March 2025</font></i> <br>
 **<a href="https://cs.nyu.edu/home/index.html" target="_blank">NYU Computer Science</a>**, Transformers are Multi-State RNNs <i><font style="color:DimGray;font-size:15px">November 2024</font></i> <br>
 **<a href="https://tech.cornell.edu/" target="_blank">Cornell Tech</a>**, The Larger the Better? Improved LLM Code-Generation via Budget Reallocation <i><font style="color:DimGray;font-size:15px">October 2024</font></i> <br>
-**<a href="https://www.cs.huji.ac.il/~adiyoss/ispeech-2023/" target="_blank">iSpeech-2023</a>**, Textualy pretrained speech LMs <i><font style="color:DimGray;font-size:15px">June 2023</font></i> <br>
-**<a href="https://www.gm.com/research" target="_blank">General Motors</a>**, More than words: In-the-wild visually-driven prosody for text-to-speech <i><font style="color:DimGray;font-size:15px">August 2022</font></i> <br>
+**<a href="https://www.cs.huji.ac.il/~adiyoss/ispeech-2023/" target="_blank">iSpeech-2023</a>**, Textually Pretrained Speech Language Models <i><font style="color:DimGray;font-size:15px">June 2023</font></i> <br>
+**<a href="https://www.gm.com/research" target="_blank">General Motors</a>**, More than Words: In-the-Wild Visually-Driven Prosody for Text-to-Speech <i><font style="color:DimGray;font-size:15px">August 2022</font></i> <br>
 
 <br>
 <h2 id="teaching-section">Teaching</h2>
