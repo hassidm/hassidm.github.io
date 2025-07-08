@@ -1,7 +1,7 @@
 ---
 title: "Scaling Analysis of Interleaved Speech-Text Language Models"
 authors: Gallil Maimon, <b>Michael Hassid</b>, Amit Roth, Yossi Adi 
-venue: Preprint
+venue: COLM 2025
 base: eco-sem
 bib: NONE
 bib-ext: NONE
