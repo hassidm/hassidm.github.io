@@ -38,7 +38,7 @@ header:
 
 <h2 id="talks-section">Talks</h2>
 
-
+**<a href="https://research.ibm.com/" target="_blank">IBM Research</a>**, Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning <i><font style="color:DimGray;font-size:15px">August 2025</font></i> <br>
 **<a href="https://www.nvidia.com/en-us/research/" target="_blank">NVIDIA Research</a>**, Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning <i><font style="color:DimGray;font-size:15px">July 2025</font></i> <br>
 **<a href="https://www.cs.huji.ac.il/" target="_blank">HUJI ANLP course</a>**, Deep Dive into Transformers *(see lecture under <a href="#teaching-section">Teaching</a>)* <i><font style="color:DimGray;font-size:15px">March 2025</font></i> <br>
 **<a href="https://cs.nyu.edu/home/index.html" target="_blank">NYU Computer Science</a>**, Transformers are Multi-State RNNs <i><font style="color:DimGray;font-size:15px">November 2024</font></i> <br>
