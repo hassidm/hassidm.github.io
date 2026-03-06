@@ -37,7 +37,7 @@ header:
 
 Hi there, I'm Michael.
 
-I am a (fourth-year) Computer Science PhD candidate at the Hebrew University of Jerusalem (<a href="https://www.cs.huji.ac.il" target="_blank">HUJI</a>), and a reserach assistant at FAIR (<a href="https://ai.meta.com/research/" target="_blank">Meta AI</a>). Both are part of an excellence joint program between HUJI and Meta AI, under the guidance of <a href="https://schwartz-lab-huji.github.io/" target="_blank">Prof. Roy Schwartz</a> and  <a href="https://www.cs.huji.ac.il/~adiyoss/" target="_blank">Dr. Yossi Adi</a>.
+I am a (fourth-year) Computer Science PhD candidate at the Hebrew University of Jerusalem (<a href="https://www.cs.huji.ac.il" target="_blank">HUJI</a>), and a research assistant at FAIR (<a href="https://ai.meta.com/research/" target="_blank">Meta AI</a>). Both are part of an excellence joint program between HUJI and Meta AI, under the guidance of <a href="https://schwartz-lab-huji.github.io/" target="_blank">Prof. Roy Schwartz</a> and  <a href="https://www.cs.huji.ac.il/~adiyoss/" target="_blank">Dr. Yossi Adi</a>.
 
 My primary focus is on large language models (LLMs), where I'm particularly interested in making them more efficient and accessible. A significant part of my research involves investigating neural mechanisms for LLMs. I also enjoy exploring LLMs for reasoning, code generation, and mathematics, as well as speech language models (SLMs). For further details, please see my [publications](publications).
 
